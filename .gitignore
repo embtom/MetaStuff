@@ -1,4 +1,3 @@
-*.txt
 *.obj
 *.XML
 *.user
@@ -36,3 +35,4 @@ example/Makefile
 example/meta_example
 example/MetaExample/
 *.cmake
+Build*/
